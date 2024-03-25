@@ -1,0 +1,7 @@
+1.Robbing a house problem with Normal Recursive approach.(Wrong Approach).
+2.Doing the above problem using DP and getting the correct answer.
+3.Solving a new problem to find number of steps.Approach - 1 (using only recursion)
+4.Doing above problem using DP.
+5.Doing above problem using DP but with bottom to top approach.
+
+
