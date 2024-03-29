@@ -1,0 +1,11 @@
+1.https://www.spoj.com/problems/MCOINS/ --> Recursive Brute Force approach.              (To be done)
+2.Optimizing above solution using Dp.(top to bottom approach)                            (To be done)
+3.Optimizing above solution using Dp.(bottom to top approach) 
+4.https://atcoder.jp/contests/dp/tasks/dp_c --> Recursive Brute Force approach. (2-D) DP (To be done)
+5.Recursive solution optimized with DP.                                                  (To be done)
+6.Solution with Dp -- Bottom to top approach.
+7.Finding the length of largest common substring ---> Brute force recursive approach.
+8.Optimizing above program with DP.
+9.Optimizing above program with DP --> bottom to top approach.                           (To be done)
+10. Did the almost same problem at --> at coder LCS https://atcoder.jp/contests/dp/tasks/dp_f
+11.Did the above problem with correct Dp ---> bottom top approach.                       (To be done)
